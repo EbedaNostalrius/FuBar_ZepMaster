@@ -1,2 +1,10 @@
 # FuBar_ZepMaster
-Fubar plugin for Zeppelin Master - WoW 1.12 Vanilla Addon
+WoW 1.12 Vanilla Addon
+
+Fubar plugin for ZepShipMaster - 
+
+Requires ZepShipMaster and FuBar
+
+http://addons.us.to/addon/zepshipmaster 
+
+http://addons.us.to/addon/fubar-0
